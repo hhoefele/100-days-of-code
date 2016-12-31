@@ -9,7 +9,7 @@
 3. Tweeted my commitment:  https://twitter.com/figmentations/status/814944122033344516
 4. Got reacquainted with Github by doing the hello-world practice:  https://guides.github.com/activities/hello-world/
 5. Starting the freecodecamp course: https://www.freecodecamp.com/map
-6. Forked the core Github site: https://github.com/hhoefele/hello-world
+6. Forked the core Github site: https://github.com/Kallaway/100-days-of-code
 
 **Thoughts:** Doing the prep work so I can hit the ground running. It's all about making decisions.
 
