@@ -15,9 +15,19 @@
 
 **Link to work:** [My Hello-World Practice Repository](https://github.com/hhoefele/hello-world)
 
-### Day 0: December 31, 2016
+### Day 0: January 2, 2016
 
-**Today's Progress**:
+**Today's Progress**:  Created a practice web page to display snippets of Javascript actions on HTML Canvas. Utilized tutorials resources as starting points, namely from:  http://www.w3resource.com/html5-canvas/ and http://www.w3schools.com/howto/.
+
+**Thoughts:** Lots of ideas, but need to be practical to build portfolio-worthy projects. What if curiosity didn't kill the cat?
+
+**Link to work:** [Latest Github commit link to Readme page](https://github.com/hhoefele/CanvasSnippets/commit/e40c0f0e14c1bdf9920c884255aa7e8c0ec26d8e)
+
+
+
+### Day 1: January 3, 2016
+
+**Today's Progress**:  Figured out how to get yesterday's progress synced to newly created Github repo for yeterday's Practice File.
 
 **Thoughts:**
 
