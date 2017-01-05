@@ -29,6 +29,25 @@
 
 **Today's Progress**:  Figured out how to get yesterday's progress synced to newly created Github repo for yeterday's Practice File.
 
-**Thoughts:**
+**Thoughts:**  So much effort to plan and decide, so little to show for it.  Starting to doubt my demo page idea. Still learning though.
 
 **Link to work:** [Placeholder](http://example.com)
+
+
+### Day 2: January 4, 2016
+
+**Today's Progress**:  Created slideshow snippet.  Added it to my Practice Demo Example File. Cleaned up a few things.
+
+**Thoughts:** Need to figure out how to display Github code....maybe look into creating Github Page?
+
+**Link to work:** [Latest Commit](https://github.com/hhoefele/CanvasSnippets/commit/3d15fc6987cfc167b43f9dfe1c340a0fc4fec182)
+
+
+### Day 3: January 5, 2016
+
+**Today's Progress**:  
+
+**Thoughts:** 
+
+**Link to work:** [Placeholder](http://example.com)
+
