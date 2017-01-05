@@ -38,7 +38,7 @@
 
 **Today's Progress**:  Created slideshow snippet.  Added it to my Practice Demo Example File. Cleaned up a few things.
 
-**Thoughts:** Need to figure out how to display Github code....maybe look into creating Github Page?
+**Thoughts:** Need to figure out how to display Github code....maybe look into creating Github Page? Update: That was easy, here it is, nothing pretty, but it's live: https://hhoefele.github.io/CanvasSnippets/
 
 **Link to work:** [Latest Commit](https://github.com/hhoefele/CanvasSnippets/commit/3d15fc6987cfc167b43f9dfe1c340a0fc4fec182)
 
