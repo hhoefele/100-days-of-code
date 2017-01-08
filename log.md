@@ -43,7 +43,17 @@
 **Link to work:** [Latest Commit](https://github.com/hhoefele/CanvasSnippets/commit/3d15fc6987cfc167b43f9dfe1c340a0fc4fec182)
 
 
-### Day 3: January 5, 2016
+### Day 3: January 7, 2016
+
+**Today's Progress**:  Cleaned up and aligned all snippets boxes to one line. Updating Commits getting easier.
+
+**Thoughts:** Life is easier when we keep things simple.  Progress, not perfection.
+
+**Link to work:** [Latest Commit #8](https://github.com/hhoefele/CanvasSnippets/commit/b54dace3812a1d4ed2d4724024ee122348042ea8); 
+[Github Page: ](https://hhoefele.github.io/CanvasSnippets/)
+
+
+### Day 4: January x, 2016
 
 **Today's Progress**:  
 
