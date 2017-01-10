@@ -31,7 +31,6 @@
 
 **Thoughts:**  So much effort to plan and decide, so little to show for it.  Starting to doubt my demo page idea. Still learning though.
 
-**Link to work:** [Placeholder](http://example.com)
 
 
 ### Day 2: January 4, 2016
@@ -41,6 +40,7 @@
 **Thoughts:** Need to figure out how to display Github code....maybe look into creating Github Page? Update: That was easy, here it is, nothing pretty, but it's live: https://hhoefele.github.io/CanvasSnippets/
 
 **Link to work:** [Latest Commit](https://github.com/hhoefele/CanvasSnippets/commit/3d15fc6987cfc167b43f9dfe1c340a0fc4fec182)
+
 
 
 ### Day 3: January 7, 2016
@@ -53,7 +53,16 @@
 [Github Page: ](https://hhoefele.github.io/CanvasSnippets/)
 
 
-### Day 4: January x, 2016
+
+### Day 4: January 9, 2016
+
+**Today's Progress**:  Started coding a portfolio website...based on a Skillcrush project. Changed top navigation to fixed. Added portfolio section.  Started re-writing the copy.
+
+**Thoughts:** I feel comfortable publishing work in progress, so will wait until next day's progress before posting to Github.
+
+
+
+### Day 5: January 10, 2016
 
 **Today's Progress**:  
 
