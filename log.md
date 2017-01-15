@@ -62,11 +62,19 @@
 
 
 
-### Day 5: January 10, 2016
+### Day 5: January 14, 2016
+
+**Today's Progress**:  Skillcrush lesson was to create our first Portfolio Site Wireframe Sketch and Design in UXPin.
+
+**Thoughts:**:  All these days of thinking and reworking and figuring out who I am...finally getting close to something that represents me. :)
+
+**Link to work:** [UXPin First Wireframe](https://collaborate.uxpin.com/5977d8eea87723bed30c7c73eb130ae160df6712#/pages/65375351?mode=cmh)
+
+
+### Day 6: January 15, 2016
 
 **Today's Progress**:  
 
 **Thoughts:** 
-
+https://collaborate.uxpin.com/5977d8eea87723bed30c7c73eb130ae160df6712#/pages/65375351?mode=cmh
 **Link to work:** [Placeholder](http://example.com)
-
